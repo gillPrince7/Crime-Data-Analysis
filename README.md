@@ -28,7 +28,7 @@ To run the Jupyter Notebook and reproduce the analysis:
 3. Open the Jupyter Notebook (`crime_analysis.ipynb`).
 
 ## Data Source
-The crime data used in this analysis is sourced from [Kaggle](https://www.kaggle.com/datasets/tcashion/vancouver-bc-crime-dataset/data)]. It includes information about crime types, dates, locations, and other relevant details.
+The crime data used in this analysis is sourced from [Kaggle](https://www.kaggle.com/datasets/tcashion/vancouver-bc-crime-dataset/data). It includes information about crime types, dates, locations, and other relevant details.
 
 ## Methodology
 The analysis follows a systematic approach:
