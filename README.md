@@ -24,7 +24,7 @@ This project involves an exploratory data analysis (EDA) of crime data in Vancou
 ## Getting Started
 To run the Jupyter Notebook and reproduce the analysis:
 1. Clone this repository.
-2. Install the required Python libraries (`pip install -r requirements.txt`).
+2. Install the required Python libraries (`pip install -r requirements.txt`).(some requirements may differ due to mac and windows)
 3. Open the Jupyter Notebook (`crime_analysis.ipynb`).
 
 ## Data Source
